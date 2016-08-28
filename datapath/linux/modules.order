@@ -1,0 +1,6 @@
+kernel//home/air/glob-openvswitch-2.5.0/datapath/linux/openvswitch.ko
+kernel//home/air/glob-openvswitch-2.5.0/datapath/linux/vport-geneve.ko
+kernel//home/air/glob-openvswitch-2.5.0/datapath/linux/vport-gre.ko
+kernel//home/air/glob-openvswitch-2.5.0/datapath/linux/vport-lisp.ko
+kernel//home/air/glob-openvswitch-2.5.0/datapath/linux/vport-stt.ko
+kernel//home/air/glob-openvswitch-2.5.0/datapath/linux/vport-vxlan.ko

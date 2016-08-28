@@ -1,0 +1,21 @@
+!SESSION 2016-06-13 03:08:07.664 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.core.resources 4 77 2016-06-13 03:10:58.494
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2016-06-13 03:10:58.494
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2016-06-13 03:10:58.494
+!MESSAGE /home/air/openvswitch-2.5.0 overlaps the workspace location: /home/air/openvswitch-2.5.0
+
+!ENTRY org.eclipse.core.resources 4 77 2016-06-13 03:11:39.936
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2016-06-13 03:11:39.936
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2016-06-13 03:11:39.936
+!MESSAGE /home/air/openvswitch-2.5.0 overlaps the workspace location: /home/air/openvswitch-2.5.0
